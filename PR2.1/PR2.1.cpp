@@ -23,6 +23,7 @@ int main()
 
 	cout << "z1 = " << z1 << endl;
 	// cout << "z2 = " << z2 << endl;
+	cout << "Test commit";
 
 	cin.get();
 	return 0;
