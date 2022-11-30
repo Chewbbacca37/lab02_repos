@@ -1,0 +1,4 @@
+﻿  pr6.3(iter).cpp
+C:\Users\PC\Desktop\vs\PR\pr6.3(iter)\pr6.3(iter)\pr6.3(iter).cpp(24,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\vs\PR\pr6.3(iter)\pr6.3(iter)\pr6.3(iter).cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pr6.3(iter).vcxproj -> C:\Users\PC\Desktop\vs\PR\pr6.3(iter)\x64\Debug\pr6.3(iter).exe

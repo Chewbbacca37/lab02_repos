@@ -1,0 +1,4 @@
+﻿  pr6.3(rec).cpp
+C:\Users\PC\Desktop\vs\PR\pr6.3(rec)\pr6.3(rec)\pr6.3(rec).cpp(25,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\vs\PR\pr6.3(rec)\pr6.3(rec)\pr6.3(rec).cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pr6.3(rec).vcxproj -> C:\Users\PC\Desktop\vs\PR\pr6.3(rec)\x64\Debug\pr6.3(rec).exe
